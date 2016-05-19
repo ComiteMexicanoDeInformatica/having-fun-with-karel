@@ -44,11 +44,11 @@ El temario inicial va es el siguiente:
 
  10. Conjuntos de valores (sets, enums): Aprender que la computadora permite representar conjuntos de valores sobre los que se pueden hacer operaciones.
 
- 11 .Procedimientos con parámetros (por valor y por referencia).
+ 11. Procedimientos con parámetros (por valor y por referencia).
 
- 12 .Procedimientos con valor de retorno.
+ 12. Procedimientos con valor de retorno.
 
- 13 .Procedimientos recursivos.  La recursión tiene varias caras que se deben identificar de manera distinta:
+ 13. Procedimientos recursivos.  La recursión tiene varias caras que se deben identificar de manera distinta:
 
     - Se puede utilizar recursión para una repetir una funcionalidad que se define a sí misma.  Por ejemplo, si se desea avanzar hasta llegar a una meta se puede definir un procedimiento que sepa dar un paso, preguntar si llegó a la meta y en caso de no hacerlo repetirse a sí mismo.  Esta recursión suele ser posible sustituirla por un while.  Sin embargo he visto que a la mayoría de la gente le parece más natural.
 
